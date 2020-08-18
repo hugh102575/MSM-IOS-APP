@@ -1,0 +1,183 @@
+2020-08-18 03:45:02 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fba8381b590; archive(resolved)='<IDEArchive: 0x7fba81acf5e0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	Chain (12, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fba8381b590; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fba8390a720; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba8392ddf0; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba83edda70; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba83ec19f0; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba818ac070; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba8391aba0; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba8399c780; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba839e1d60; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fba838aa8a0; teamID='2M2GQJSBP7', teamName='TZU HSIU HSU', teamType='Individual', username='danny102575@gmail.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fba8396ba70; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='(null)'>
+	<IDEDistributionContext: 0x7fba837d46c0; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='<IDEDistributionMethodiOSAppStoreDistribution: 0x7fba81f41340>', team='(null)'>
+	<IDEDistributionContext: 0x7fba839bf8d0; archive = '<IDEArchive: 0x7fba81acf5e0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fba8381b590>
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionCreateDestRootStep
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionCopyItemStep
+2020-08-18 03:45:02 +0000  Running /usr/bin/ditto '-V' '/Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/Products/Applications/到公系統.app' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root/Payload/到公系統.app'
+2020-08-18 03:45:02 +0000  >>> Copying /Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/Products/Applications/到公系統.app 
+2020-08-18 03:45:02 +0000  copying file ./_CodeSignature/CodeResources ... 
+2020-08-18 03:45:02 +0000  6983 bytes for ./_CodeSignature/CodeResources
+2020-08-18 03:45:02 +0000  copying file ./到公系統 ... 
+2020-08-18 03:45:02 +0000  1048608 bytes for ./到公系統
+2020-08-18 03:45:02 +0000  copying file ./AppIcon60x60@2x.png ... 
+2020-08-18 03:45:02 +0000  9890 bytes for ./AppIcon60x60@2x.png
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/cYS-BL-jKa-view-n0k-aE-Hos.nib ... 
+2020-08-18 03:45:02 +0000  12380 bytes for ./Base.lproj/Main.storyboardc/cYS-BL-jKa-view-n0k-aE-Hos.nib
+copying file ./Base.lproj/Main.storyboardc/8gw-Gv-daI-view-RXD-2u-CoY.nib ... 
+2020-08-18 03:45:02 +0000  10015 bytes for ./Base.lproj/Main.storyboardc/8gw-Gv-daI-view-RXD-2u-CoY.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/h2A-9j-blM-view-C5Y-vM-8hm.nib ... 
+2020-08-18 03:45:02 +0000  12463 bytes for ./Base.lproj/Main.storyboardc/h2A-9j-blM-view-C5Y-vM-8hm.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-djF-JW-BdD.nib ... 
+2020-08-18 03:45:02 +0000  1359 bytes for ./Base.lproj/Main.storyboardc/UIViewController-djF-JW-BdD.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-h2A-9j-blM.nib ... 
+2020-08-18 03:45:02 +0000  1374 bytes for ./Base.lproj/Main.storyboardc/UIViewController-h2A-9j-blM.nib
+copying file ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-08-18 03:45:02 +0000  1594 bytes for ./Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-cYS-BL-jKa.nib ... 
+2020-08-18 03:45:02 +0000  1477 bytes for ./Base.lproj/Main.storyboardc/UIViewController-cYS-BL-jKa.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/UIViewController-8gw-Gv-daI.nib ... 
+2020-08-18 03:45:02 +0000  1354 bytes for ./Base.lproj/Main.storyboardc/UIViewController-8gw-Gv-daI.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-08-18 03:45:02 +0000  9589 bytes for ./Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2020-08-18 03:45:02 +0000  531 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/Main.storyboardc/djF-JW-BdD-view-Hph-YI-LXA.nib ... 
+2020-08-18 03:45:02 +0000  7247 bytes for ./Base.lproj/Main.storyboardc/djF-JW-BdD-view-Hph-YI-LXA.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-08-18 03:45:02 +0000  1197 bytes for ./Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-08-18 03:45:02 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-08-18 03:45:02 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-08-18 03:45:02 +0000  copying file ./Assets.car ... 
+2020-08-18 03:45:02 +0000  368079 bytes for ./Assets.car
+2020-08-18 03:45:02 +0000  copying file ./AppIcon76x76@2x~ipad.png ... 
+2020-08-18 03:45:02 +0000  9462 bytes for ./AppIcon76x76@2x~ipad.png
+2020-08-18 03:45:02 +0000  copying file ./embedded.mobileprovision ... 
+2020-08-18 03:45:02 +0000  9354 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2020-08-18 03:45:02 +0000  1644 bytes for ./Info.plist
+2020-08-18 03:45:02 +0000  copying file ./PkgInfo ... 
+2020-08-18 03:45:02 +0000  8 bytes for ./PkgInfo
+2020-08-18 03:45:02 +0000  /usr/bin/ditto exited with 0
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionEmbedProfileStep
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionInfoPlistStep
+2020-08-18 03:45:02 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionItemRemovalStep
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2020-08-18 03:45:02 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2020-08-18 03:45:02 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2020-08-18 03:45:02 +0000  Running /usr/bin/ditto '-V' '/Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/BCSymbolMaps/46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root/BCSymbolMaps/46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap'
+2020-08-18 03:45:02 +0000  >>> Copying /Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/BCSymbolMaps/46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap 
+2020-08-18 03:45:02 +0000  copying file ./46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap ... 
+2020-08-18 03:45:02 +0000  81039 bytes for ./46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap
+2020-08-18 03:45:02 +0000  /usr/bin/ditto exited with 0
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionSymbolsStep
+2020-08-18 03:45:02 +0000  Excluding symbols for 到公系統.app
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionCopyAppleProvidedContentStep
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionAppThinningStep
+2020-08-18 03:45:02 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionArchThinningStep
+2020-08-18 03:45:02 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root/Payload/到公系統.app/到公系統' '-verify_arch' 'arm64e'
+2020-08-18 03:45:02 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2020-08-18 03:45:02 +0000  Skipping architecture thinning for item "到公系統" because arch "arm64e" wasn't found
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionODRStep
+2020-08-18 03:45:02 +0000  Processing step: IDEDistributionStripXattrsStep
+2020-08-18 03:45:02 +0000  Running /usr/bin/xattr '-crs' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root/Payload/到公系統.app'
+2020-08-18 03:45:03 +0000  /usr/bin/xattr exited with 0
+2020-08-18 03:45:03 +0000  Processing step: IDEDistributionCodesignStep
+2020-08-18 03:45:03 +0000  Entitlements for <IDEDistributionItem: 0x7fba834c0280; bundleID='msm.beta', path='<DVTFilePath:0x7fba81ad41c0:'/Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/Products/Applications/到公系統.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fba7d6cd6d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fba83911030; name='Apple Development: TZU HSIU HSU (685NS7Q4L3)', hash='F3BEBC355B54CF5618C061BE2A1D319B7C7DED89', serialNumber='2655D0F0FA827296', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-07-20 06:42:19 +0000''>', entitlements='{
+    "application-identifier" = "2M2GQJSBP7.msm.beta";
+    "com.apple.developer.team-identifier" = 2M2GQJSBP7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2M2GQJSBP7.msm.beta"
+    );
+}', teamID='2M2GQJSBP7', identifier='msm.beta', executablePath='<DVTFilePath:0x7fba84b15920:'/Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/Products/Applications/到公系統.app/到公系統'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "2M2GQJSBP7.msm.beta";
+    "beta-reports-active" = 1;
+    "com.apple.developer.team-identifier" = 2M2GQJSBP7;
+    "get-task-allow" = 0;
+    "keychain-access-groups" =     (
+        "2M2GQJSBP7.msm.beta"
+    );
+}
+2020-08-18 03:45:03 +0000  Writing entitlements for <IDEDistributionItem: 0x7fba834c0280; bundleID='msm.beta', path='<DVTFilePath:0x7fba81ad41c0:'/Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/Products/Applications/到公系統.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fba7d6cd6d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fba839b7ee0; name='Apple Development: TZU HSIU HSU (685NS7Q4L3)', hash='F3BEBC355B54CF5618C061BE2A1D319B7C7DED89', serialNumber='2655D0F0FA827296', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2020-07-20 06:42:19 +0000''>', entitlements='{
+    "application-identifier" = "2M2GQJSBP7.msm.beta";
+    "com.apple.developer.team-identifier" = 2M2GQJSBP7;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2M2GQJSBP7.msm.beta"
+    );
+}', teamID='2M2GQJSBP7', identifier='msm.beta', executablePath='<DVTFilePath:0x7fba84b15920:'/Users/qazwsx/Library/Developer/Xcode/Archives/2020-08-07/iosapp 2020-8-7, 9.57 AM.xcarchive/Products/Applications/到公系統.app/到公系統'>', hardenedRuntime='0'>'> to: /var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/entitlements~~~BUAdYc
+2020-08-18 03:45:03 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'C8D26D2A709107D2F9DAAFD356B0B41C9E39702B' '--entitlements' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/entitlements~~~BUAdYc' '--preserve-metadata=identifier,flags,runtime' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root/Payload/到公系統.app'
+2020-08-18 03:45:03 +0000  /var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root/Payload/到公系統.app: signed app bundle with Mach-O thin (arm64) [msm.beta]
+2020-08-18 03:45:03 +0000  /usr/bin/codesign exited with 0
+2020-08-18 03:45:03 +0000  Processing step: IDEDistributionZipODRItemStep
+2020-08-18 03:45:03 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2020-08-18 03:45:03 +0000  Processing step: IDEDistributionCreateIPAStep
+2020-08-18 03:45:03 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root' '/var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Packages/iosapp.ipa'
+2020-08-18 03:45:03 +0000  >>> Copying /var/folders/kn/s7p4zv7d6hx7m_fp7m4zrpw40000gp/T/XcodeDistPipeline.~~~nlAt6J/Root 
+2020-08-18 03:45:03 +0000  copying file ./BCSymbolMaps/46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap ... 
+2020-08-18 03:45:03 +0000  81039 bytes for ./BCSymbolMaps/46C068B1-7496-314D-91DB-707F50218542.bcsymbolmap
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/_CodeSignature/CodeResources ... 
+2020-08-18 03:45:03 +0000  6983 bytes for ./Payload/到公系統.app/_CodeSignature/CodeResources
+copying file ./Payload/到公系統.app/到公系統 ... 
+2020-08-18 03:45:03 +0000  847088 bytes for ./Payload/到公系統.app/到公系統
+copying file ./Payload/到公系統.app/AppIcon60x60@2x.png ... 
+2020-08-18 03:45:03 +0000  9890 bytes for ./Payload/到公系統.app/AppIcon60x60@2x.png
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/cYS-BL-jKa-view-n0k-aE-Hos.nib ... 
+2020-08-18 03:45:03 +0000  12380 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/cYS-BL-jKa-view-n0k-aE-Hos.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/8gw-Gv-daI-view-RXD-2u-CoY.nib ... 
+2020-08-18 03:45:03 +0000  10015 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/8gw-Gv-daI-view-RXD-2u-CoY.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/h2A-9j-blM-view-C5Y-vM-8hm.nib ... 
+2020-08-18 03:45:03 +0000  12463 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/h2A-9j-blM-view-C5Y-vM-8hm.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-djF-JW-BdD.nib ... 
+1359 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-djF-JW-BdD.nib
+copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-h2A-9j-blM.nib ... 
+2020-08-18 03:45:03 +0000  1374 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-h2A-9j-blM.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib ... 
+2020-08-18 03:45:03 +0000  1594 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-BYZ-38-t0r.nib
+copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-cYS-BL-jKa.nib ... 
+2020-08-18 03:45:03 +0000  1477 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-cYS-BL-jKa.nib
+copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-8gw-Gv-daI.nib ... 
+2020-08-18 03:45:03 +0000  1354 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/UIViewController-8gw-Gv-daI.nib
+copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib ... 
+2020-08-18 03:45:03 +0000  9589 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/Info.plist ... 
+531 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/Info.plist
+copying file ./Payload/到公系統.app/Base.lproj/Main.storyboardc/djF-JW-BdD-view-Hph-YI-LXA.nib ... 
+2020-08-18 03:45:03 +0000  7247 bytes for ./Payload/到公系統.app/Base.lproj/Main.storyboardc/djF-JW-BdD-view-Hph-YI-LXA.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib ... 
+2020-08-18 03:45:03 +0000  1197 bytes for ./Payload/到公系統.app/Base.lproj/LaunchScreen.storyboardc/01J-lp-oVM-view-Ze5-6b-2t3.nib
+copying file ./Payload/到公系統.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib ... 
+2020-08-18 03:45:03 +0000  896 bytes for ./Payload/到公系統.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-01J-lp-oVM.nib
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+258 bytes for ./Payload/到公系統.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/Assets.car ... 
+2020-08-18 03:45:03 +0000  368079 bytes for ./Payload/到公系統.app/Assets.car
+copying file ./Payload/到公系統.app/AppIcon76x76@2x~ipad.png ... 
+2020-08-18 03:45:03 +0000  9462 bytes for ./Payload/到公系統.app/AppIcon76x76@2x~ipad.png
+2020-08-18 03:45:03 +0000  copying file ./Payload/到公系統.app/embedded.mobileprovision ... 
+2020-08-18 03:45:03 +0000  7338 bytes for ./Payload/到公系統.app/embedded.mobileprovision
+copying file ./Payload/到公系統.app/Info.plist ... 
+2020-08-18 03:45:03 +0000  1644 bytes for ./Payload/到公系統.app/Info.plist
+copying file ./Payload/到公系統.app/PkgInfo ... 
+2020-08-18 03:45:03 +0000  8 bytes for ./Payload/到公系統.app/PkgInfo
+2020-08-18 03:45:03 +0000  /usr/bin/ditto exited with 0
+2020-08-18 03:45:03 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2020-08-18 03:45:03 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2020-08-18 03:45:03 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2020-08-18 03:45:03 +0000  Processing step: IDEDistributionCreateManifestStep
+2020-08-18 03:45:03 +0000  Skipping step: IDEDistributionCreateManifestStep because it said so
